@@ -5,14 +5,32 @@
 }
 
 .no-padding{
-    padding-left:0;
+    padding:0;
 }
 
-.carousel-inner{
-    margin:0rem 2rem;
+.carousel{
+    width: 100%;
+    margin: 0px 15px;
 }
 
-.carousel-control-next, .carousel-control-prev{
-    width:9%;
-    background-color:black;
+body{
+    background-image: url(../images/Webp.net-resizeimage\ \(2\).jpg);
+    background-position: 10% 10%;
+    background-repeat: no-repeat;
+}
+
+.textW{
+    color:#ffffff;
+}
+
+.margin15{
+    margin: 0px 0px;
+}
+
+.transparent{
+    opacity: .8;
+}
+
+.textLight{
+    color: #ffffff
 }
